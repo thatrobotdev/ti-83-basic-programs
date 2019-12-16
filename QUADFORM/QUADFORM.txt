@@ -1,0 +1,13 @@
+:"QUADFORM by JP Kerrane, October 29, 2019. 
+:"Display equation
+Disp "­B+-√(B²-4AC))/(2A)" 
+
+:"Ask for variables to fill-in
+Prompt A,B,C
+
+:"Find quadratic formula for both possibilities, and round the answer to 2 decimal points
+round(((­B+√(B²-4AC))/(2A)),2)→X
+round(((­B-√(B²-4AC))/(2A)),2)→Y
+
+:"Display the answer
+Disp "X=",X,Y
