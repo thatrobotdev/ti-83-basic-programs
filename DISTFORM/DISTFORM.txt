@@ -1,0 +1,20 @@
+:"DISTFORM by Luke Carapezza
+
+ClrHome
+Menu(Distance",1,"Quit",2)
+
+Lbl 1
+Goto 4
+
+
+Lbl 4
+Input "X1:",X
+Input "X2:",A
+Input "Y1:",Y
+Input "Y2:",B
+
+√((A-X)^2+(B-Y)^2)→W
+
+Disp "Distance: ",W,"  or  √",((B-Y)^2+(A-X)^2)
+
+Stop
