@@ -11,8 +11,7 @@ If you would like to add some helpful programs, or improve these, [please create
 Program Name | Source Code | Compiled | Desciption
 ------------ | ----------- | -------- | ----------
 QUADFORM | [QUADFORM.txt](QUADFORM/QUADFORM.txt) | [QUADFORM.8xp](QUADFORM/QUADFORM.8xp) | Finds quadratic formula for both possibilities, and rounds to answer to 2 decimal points. -b±√((b²-4ac)÷(2a))
-
-DISTFORM | [DISTFORM.TXT](DISTFORM/DISTFORM.txt) | [N/A]() | Finds Distance between 2 points. √((x₂-x₁)²+(y₂-y₁)²)
+DISTFORM | [DISTFORM.txt](DISTFORM/DISTFORM.txt) | N/A | Finds Distance between 2 points. √((x₂-x₁)²+(y₂-y₁)²) |
 
 ## Downloading
 
