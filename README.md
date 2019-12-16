@@ -64,6 +64,9 @@ Later, if you want to unarchive a program, you can do
 
 `2nd → mem(+) → 6 → prgm → (the name of the archived program) → enter`
 
-# [License](LICENSE)
+## [License](LICENSE)
 
 This repository is licensed under the Unlicense, which means that these programs are released into the [public domain](https://en.wikipedia.org/wiki/Public_domain).
+
+## Trademark Notice
+TI Connect™ is a trademark owned by Texas Instruments Incorporated. This repository is not affiliated, sponsored or endorsed by Texas Instruments or its partners. 
