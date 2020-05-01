@@ -1,4 +1,4 @@
-﻿:"QUADFORM by JP Kerrane
+:"QUADFORM: Use the quadratic formula
 :"If you are getting ERROR: NONREAL ANSWERS, go to mode -> NUMBER TYPE -> a+bi.
 :"Display equation
 Disp "­B+-√(B²-4AC))/(2A)" 

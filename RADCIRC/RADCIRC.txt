@@ -1,0 +1,13 @@
+:"RADCIRC: Get the raidus of a circle
+
+:"Display equation. (H, K) are coordinate points for the center of the circle, (X, Y) are coordinate points for any point on the outside of the circle.
+Disp "√((H-X)²+(K-Y)²"
+
+:"Ask for variables to fill-in
+Prompt H,K,X,Y
+
+:"Use the distance formula
+√((H-X)²+(K-Y)²→R
+
+:"Display the answer
+Disp "R=",R
