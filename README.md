@@ -2,7 +2,7 @@
 
 ## About
 
-This is a collection of programs that I've written throughout high school math courses to solve problems faster on my TI-84 Plus CE.
+This is a collection of programs to solve highh school level problems faster on TI-83/84/+/SE/CSE/CE calculators.
 
 These are written in [TI-BASIC_83](https://en.wikipedia.org/wiki/TI-BASIC_83), a programming language for TI-83/84/+/SE/CSE/CE calculators. These programs are uncompiled, as .txt files. You will need to convert them to .8xp files for them to work on your calculator. For more information on how to download these onto your calculator, see [Downloading](##Downloading)
 
