@@ -1,0 +1,15 @@
+:"SECθ: Find secθ
+:"Display equation
+
+:"TODO: Fix program, add all trig identities
+Disp "­secθ = 1/cosθ" 
+
+:"Ask for variables to fill-in
+Prompt A
+
+:"Find quadratic formula for both possibilities, and round the answer to 2 decimal points
+
+1/cos(A)→X
+
+:"Display the answer
+Disp "X="X

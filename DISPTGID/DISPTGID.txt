@@ -1,0 +1,5 @@
+:"DISTGID: Display trid identities
+Disp "­secθ = 1/cosθ"
+Disp "cotθ = 1/tanθ = cosθ/sinθ"
+Disp "secθ = 1/cosθ"
+Disp "cscθ = 1/sinθ"
