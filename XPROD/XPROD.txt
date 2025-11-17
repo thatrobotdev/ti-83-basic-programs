@@ -1,0 +1,21 @@
+:"XPROD: Cross product of 2 vectors
+:"Display formula
+Disp ""
+Disp "Cx=(Ay*Bz-Az*By)"
+Disp "Cy=(Az*Bx-Ax*Bz)"
+Disp "Cz=(Ax*By-Ay*Bx)"
+
+:"Display input guide
+Disp "A = <A, B, C>"
+Disp "B = <D, E, F>"
+
+:"Ask for vector components
+Prompt A,B,C,D,E,F
+
+:"Compute cross product components
+(B*F-C*E)→X
+(C*D-A*F)→Y
+(A*E-B*D)→Z
+
+:"Display cross product vector on one line"
+Disp "C= <",X,",",Y,",",Z,">"
